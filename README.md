@@ -2,4 +2,4 @@
 - 👀 I’m interested in learing
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on anything 
-- 📫 How to reach me discord @latekukko#1360
+- 📫 How to reach me discord @latekukko
